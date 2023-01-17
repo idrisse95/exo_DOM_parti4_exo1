@@ -9,6 +9,8 @@ let exo1 = document.querySelector('h1')
 console.log(exo1);
 
 // ### 2. Créer un programme qui met le texte du h1 en bleu
+let exo2 = document.querySelector('h1').style=('color:blue;')
+
 
 // ### 3. Met ce programme dans une function
 // ### 4. Appelle cette function pour qu'elle soit executé 
